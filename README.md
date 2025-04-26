@@ -1,0 +1,7 @@
+- 🔥 Hi, I’m @RashmithaKalhara  
+- 👀 I’m interested in full-stack development, mobile apps, and game development  
+- 🌱 I’m currently learning game development  
+- 💞️ I’m looking to collaborate on innovative web, mobile, and game projects  
+- 📫 How to reach me: kalhararashmitha@gmail.com | [LinkedIn](https://www.linkedin.com/in/rashmitha-kalhara-0a46a0179) | [DexLanka](https://dexlanka.com/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I built a POS system from scratch using Java and love exploring new tech!
