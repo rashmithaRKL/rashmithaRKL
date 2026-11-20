@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Rashmitha Kalhara 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Rashmitha%20Kalhara&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Developer%20%C2%B7%20Founder%20of%20DexLanka&descAlignY=58&descSize=18&animation=fadeIn" alt="Rashmitha Kalhara banner" width="100%"/>
+</p>
 
 <p align="center">
-  <b>Full Stack &amp; Mobile Developer · Founder of <a href="https://dexlanka.com">DexLanka Software Solutions</a></b><br/>
-  I build web platforms, POS systems and cross-platform mobile apps for businesses in Sri Lanka and overseas.
+  <a href="https://dexlanka.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+web+platforms+%26+POS+systems;Cross-platform+apps+with+React+Native+%26+Flutter;Laravel+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase;Open+to+freelance+projects+%F0%9F%9A%80" alt="Typing intro"/>
+  </a>
 </p>
 
 <p align="center">
@@ -60,8 +63,30 @@
 | **DexLanka** | Company site for my software studio | [dexlanka.com](https://dexlanka.com) |
 | **Art Gallery** | Gallery website, my first client project | [View site](https://rashmitharkl.github.io/Art-Gallery) |
 
+### Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg"/>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rashmithaRKL/rashmithaRKL/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rashmithaRKL/rashmithaRKL/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/rashmithaRKL/rashmithaRKL/output/github-snake.svg" alt="Contribution snake animation" width="100%"/>
+  </picture>
+</p>
+
 ### Services
 
 Business websites · Web apps &amp; dashboards · POS &amp; inventory systems · iOS/Android apps (React Native, Flutter)
 
 **Have a project in mind?** Reach me at [dexlanka.com](https://dexlanka.com) or [kalhararashmitha@gmail.com](mailto:kalhararashmitha@gmail.com).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=110&section=footer" alt="" width="100%"/>
+</p>
