@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Rashmitha%20Kalhara&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Developer%20%C2%B7%20Founder%20of%20DexLanka&descAlignY=58&descSize=18&animation=fadeIn" alt="Rashmitha Kalhara banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Rashmitha%20Kalhara&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20and%20Mobile%20Developer%20-%20Founder%20of%20DexLanka&descAlignY=58&descSize=18&animation=fadeIn" alt="Rashmitha Kalhara banner" width="100%"/>
 </p>
 
 <p align="center">
