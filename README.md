@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Rashmitha Kalhara — Full Stack & Mobile Developer. Founder of DexLanka Software Solutions."/>
+  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Rashmitha Kalhara — Full Stack & Mobile Developer, Founder of DexLanka Software Solutions"/>
 </p>
 
 <p align="center">
